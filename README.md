@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my game project.
 - 😄 Pronouns: He/Him
-https://www.indiedb.com/games/taraniawarsonline
+- https://www.indiedb.com/games/taraniawarsonline
 
 ![ofishida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofishida&theme=merko&show_icons=true)
 
